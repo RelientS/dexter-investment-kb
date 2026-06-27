@@ -1,0 +1,5 @@
+.DS_Store
+*.swp
+_data/partial-*.json
+_data/*_structured.json
+_data/final_structured_tool_input.json
