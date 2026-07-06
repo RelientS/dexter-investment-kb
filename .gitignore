@@ -3,3 +3,7 @@
 _data/partial-*.json
 _data/*_structured.json
 _data/final_structured_tool_input.json
+# Cache-only: raw feishu export lives in _data so kb-weekly can survive /tmp
+# being wiped, but it doesn't belong in the wiki commit history.
+_data/dexter_doc.md
+_data/dexter_assets/
