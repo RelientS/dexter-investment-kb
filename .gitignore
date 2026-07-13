@@ -7,3 +7,5 @@ _data/final_structured_tool_input.json
 # being wiped, but it doesn't belong in the wiki commit history.
 _data/dexter_doc.md
 _data/dexter_assets/
+# Transient logs from workflow/tool runs, not KB content
+log/
